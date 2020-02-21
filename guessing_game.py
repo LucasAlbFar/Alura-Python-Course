@@ -3,6 +3,8 @@ print('Welcome to the Guessing Game!')
 print('+++++++++++++++++++++++++++++')
 
 secret_number = 87
+trys = 3
+
 guess = int(input("Insert a number: "))
 print("Your guess is",guess)
 
