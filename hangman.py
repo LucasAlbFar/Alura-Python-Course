@@ -5,7 +5,7 @@ def play():
     print('Welcome to the Hangman Game!')
     print('+++++++++++++++++++++++++++++')
 
-    secret_word = "banana"
+    secret_word = "dell"
     hanged = False
     matched = False
 
